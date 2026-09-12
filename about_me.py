@@ -1,3 +1,7 @@
 my_name = input("Как вас зовут?  ")
 my_city = input("В каком городе ты проживаешь?  ")
-print(my_name, "," , my_city)
+ 
+
+my_year_of_birth = input("В каком году ты родился?  ")
+
+print("Меня зовут",my_name, ",","я живу в" , my_city, ",", "я родился в", my_year_of_birth )
